@@ -12,5 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+// MAS: added bootstrap plugin
+//= require bootstrap-sprockets
 //= require turbolinks
 //= require_tree .
